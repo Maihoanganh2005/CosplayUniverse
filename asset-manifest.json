@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CosplayUniverse/static/css/main.3244803f.css",
+    "main.js": "/CosplayUniverse/static/js/main.617de1a8.js",
+    "index.html": "/CosplayUniverse/index.html",
+    "main.3244803f.css.map": "/CosplayUniverse/static/css/main.3244803f.css.map",
+    "main.617de1a8.js.map": "/CosplayUniverse/static/js/main.617de1a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3244803f.css",
+    "static/js/main.617de1a8.js"
+  ]
+}
