@@ -1,0 +1,15 @@
+.home-container {
+  text-align: center;
+  padding: 2rem;
+  background: linear-gradient(180deg, #ff7eb3, #ff758c);
+  color: white;
+}
+
+.home-container h1 {
+  font-size: 2.5rem;
+}
+
+.home-container p {
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}

@@ -1,0 +1,45 @@
+.game {
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.question {
+  margin: 20px 0;
+}
+
+.question img {
+  width: 300px; /* Chiều rộng phù hợp cho hình ảnh */
+  height: auto; /* Đảm bảo tỷ lệ hình ảnh không bị bóp méo */
+  margin: 10px 0;
+  border: 2px solid #ddd;
+  border-radius: 8px; /* Bo góc nhẹ để tăng thẩm mỹ */
+}
+
+.answers {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.answers button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #4caf50;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.answers button:hover {
+  background-color: #45a049;
+}
+
+.score {
+  margin-top: 20px;
+  font-size: 1.2rem;
+  font-weight: bold;
+}

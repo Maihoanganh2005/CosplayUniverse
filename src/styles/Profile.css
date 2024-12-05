@@ -1,0 +1,29 @@
+.profile-container {
+  text-align: center;
+  padding: 2rem;
+  background-color: #f4f4f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.profile-container h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.profile-container p {
+  font-size: 1rem;
+  color: #666;
+}
+
+.profile-image {
+  width: 150px; /* Kích thước khung ảnh */
+  height: 150px; /* Kích thước khung ảnh */
+  border-radius: 50%; /* Tạo hình tròn */
+  object-fit: cover; /* Đảm bảo ảnh không bị méo */
+  border: 2px solid #ddd; /* Viền của hình ảnh */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Tùy chọn bóng */
+  margin: 1rem auto; /* Căn giữa hình ảnh */
+  display: block; /* Đảm bảo ảnh ở giữa */
+}
